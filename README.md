@@ -1,2 +1,2 @@
 # electrical-fanatic
-web
+web pertama belajar website 
